@@ -10,7 +10,7 @@ This is a bot that is made to connect channels between 2 servers making server c
 ```sh
 npm i
 ```
-Change the values inside config.json to match your own
+Change the values inside config.json to match your own<br>
 Make a webhook on both channels you wanna connect
 ![](webhook.gif)
 ```sh
