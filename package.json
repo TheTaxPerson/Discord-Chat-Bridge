@@ -1,0 +1,22 @@
+{
+  "name": "chat-bridge",
+  "version": "1.0.0",
+  "description": "A discord bot that bridges the chat between 2 servers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheTaxPerson/Discord-Chat-Bridge.git"
+  },
+  "author": "TheTaxPerson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheTaxPerson/Discord-Chat-Bridge/issues"
+  },
+  "homepage": "https://github.com/TheTaxPerson/Discord-Chat-Bridge#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
