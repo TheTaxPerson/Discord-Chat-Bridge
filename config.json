@@ -1,5 +1,7 @@
 {
   "token": "BOT-TOKEN",
-  "Channel1":"CHANNEL-ID",
-  "Channel2":"CHANNEL-ID"
+  "channel_1_url":"CHANNEL-1-WEBHOOK-URL",
+  "channel_2_url":"CHANNEL-2-WEBHOOK-URL",
+  "channel_1_id": "CHANNEL-1-ID",
+  "channel_2_id": "CHANNEL-2-ID"
 }
